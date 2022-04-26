@@ -3,18 +3,19 @@
 **Grzegorz Dranka**
 
 ## Grzegorz Dranka
+
 ## Doświadczenie 
-**Jak nauczyć się programowania**
+**Jak nauczyć się programowania**\
 od 2019
 
-**TomTom**
+**TomTom**\
 od 2020
 
-**Euro**
+**Euro**\
 od 2021
 
-**Sport**
+**Sport**\
 od 2022
 
-**Zdrowie**
+**Zdrowie**\
 2023-2024
